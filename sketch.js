@@ -248,7 +248,7 @@ function draw() {
     fill("white")
     text("KILLS : "+kills,80,50)
     text("HEALTH : "+ health,1500,50)
-    text("LEVEL1",width/2-50,50)
+    text("LEVEL3",width/2-50,50)
     lvl3loading.visible=false
     nextLevel.visible=false
     player.visible=true;
