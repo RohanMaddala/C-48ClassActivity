@@ -59,7 +59,7 @@ function preload(){
   lvl3loadingIMG = loadImage("Level3/lvl3.png")
 
   //Nextlevel
-  nextLevelIMG = loadImage("nextlevel.png") 
+  nextLevelIMG = loadImage("nextLevel.png") 
 
   //playAgain
   playAgainIMG = loadImage("playAgain.png")
